@@ -34,10 +34,19 @@
 
   .textbody {
     background-color: white;
-    width: 956px;
     border: 2px solid #dddddd;
     clear: both;
     overflow: auto;
-    margin-top: 50px;
+    margin-top: 30px;
   }
   
+  .aboutme {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 24px;
+    color: #4aaaa5;
+    border-bottom: 3px solid #cccccc;
+  }
+
+  .img-thumbnail {
+      border: none;
+  }
