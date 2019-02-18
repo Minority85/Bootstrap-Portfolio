@@ -35,8 +35,6 @@
   .textbody {
     background-color: white;
     border: 2px solid #dddddd;
-    clear: both;
-    overflow: auto;
     margin-top: 30px;
   }
   
@@ -47,6 +45,18 @@
     border-bottom: 3px solid #cccccc;
   }
 
-  .img-thumbnail {
-      border: none;
+  .pictureme {
+    width: 170px; 
+    height: 200px; 
+    margin-right: 20px; 
+    margin-bottom: 15px;
+  }
+
+  .footerbar {
+    background-color: #666666;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 50px;
+    color: #B3B4AB;
+    border-top: 3px solid #4aaaa5;
   }
